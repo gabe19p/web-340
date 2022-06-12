@@ -1,3 +1,4 @@
+//  team object template
 class Team {
   constructor(name, mascot, playerCount) {
     this.name = name;
